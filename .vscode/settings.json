@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "ecma-gc.h": "c",
-        "cstdarg": "c",
-        "type_traits": "c"
-    }
-}
